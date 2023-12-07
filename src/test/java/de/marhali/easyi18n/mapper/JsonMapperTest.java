@@ -9,7 +9,7 @@ import de.marhali.easyi18n.io.parser.json.JsonMapper;
 import de.marhali.easyi18n.model.TranslationData;
 
 import de.marhali.easyi18n.model.KeyPath;
-import org.apache.commons.lang.StringEscapeUtils;
+import org.apache.commons.lang3.StringEscapeUtils;
 import org.junit.Assert;
 
 import java.util.Arrays;

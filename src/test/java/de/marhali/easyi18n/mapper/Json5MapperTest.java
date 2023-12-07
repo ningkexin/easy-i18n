@@ -8,7 +8,7 @@ import de.marhali.easyi18n.model.KeyPath;
 import de.marhali.json5.Json5Object;
 import de.marhali.json5.Json5Primitive;
 
-import org.apache.commons.lang.StringEscapeUtils;
+import org.apache.commons.lang3.StringEscapeUtils;
 import org.junit.Assert;
 
 import java.util.Arrays;
